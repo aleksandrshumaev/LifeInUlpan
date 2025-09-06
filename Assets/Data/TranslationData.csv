@@ -1,0 +1,44 @@
+Ui_Title/Bolding from MMD
+Ui_startGame/Start Game
+Ui_ContinueGame/Continue
+Ui_GameSettings/Settings
+Ui_ExitGame/Exit
+Ui_ConfirmButton/Ok
+Ui_CancleButton/Cancle
+Ui_SettingsTitle/Game settings
+Ui_MusicVolumeText/music volume
+Ui_SoundVolumeText/sounds volume
+Ui_MenuButtonText/Menu
+Ui_Day/Day
+Ui_MoneyPanel/Money
+Ui_PassedOutDescription/Take it easy pal, low energy causes fainting.(DO NOT REPEAT IN REAL LIFE).
+Ui_SleepButton/Sleep
+Ui_NapButton/Nap
+Ui_BadFoodButton/Buy cheep food
+Ui_GoodFoodButton/Buy good food
+Ui_ToUlpanButton/Go to Ulpan
+Ui_BuyCureButton/Buy hair Cure
+Ui_FinalScoreUlpanMinigame/Score
+Ui_BedUsingTypeChoosingDescription/You can save game using the bed. Sleeping will take 6 hours, restore 60 energy and reduce stress by 30. Napping will take 3 hours, restore 30 energy and reduce stress by 10.
+Ui_BedCantSleep/You can't sleep all day.
+Ui_BedSleptWell/You slept well.
+Ui_BedNapedWell/You naped well.
+Ui_ComputerUsingDescription/You can play video games to reduce your stress, but remember that you can tilt with bad teammates(you will diffently do)
+Ui_ComputerNormalEffect/It was average game. You spend 1 hour, stress raised by 5 and energy reduced by 20.
+Ui_ComputerBadEffect/It was awful game with awful teammates, you are in rage. You spend 1 hour, stress raised by 20 and energy reduced by 30.
+Ui_ComputerGoodEffect/God bless your teammates, awesome game ever. You spend 1 hour, stress reduced by 40 and energy reduced by 10.
+Ui_WhiskyUsingDescription/You can drink some whisky to reduce stress by 10. You'll also spend 1 hour and 30 energy. Drink responsibly!
+Ui_WhiskyConsumedDescription/Drinking too much can harm your health.
+Ui_HomeWorkNotesUsingDescription/You can work on mistakes for 2 hours, remember mistakes causes stress raising.
+Ui_HomeWorkNotesNotEnoughMistakes/There's nothing for you to do here, smart guy.
+Ui_HomeWorkNotesAlreadyUsedDescription/Sure, learning is the eye of the mind, but we have some game balance here, so you can make it only once per day.
+Ui_KitchenUsingTypeChoosingDescription/You can buy good food for 50 and restore 15 energy 10 stress, or you can buy cheap food only for 15 and get 5 stress(because of awful taste) and restore 10 energy. Anyway you'll spend 1 hour.
+Ui_KitchenGoodFoodDescription/Bellissimo!
+Ui_KitchenBadFoodDescription/"I eat it to survive".
+Ui_DoorFromRoomDescription/You can go to classroom, or buy hair cure ONLY FOR 250!!!!
+Ui_DoorCureDescription/Goofs never die out...
+Ui_WhiteboardUsingDescription/Look on new words.
+Ui_DoorToRoomUseDescription/Let's go home?
+Ui_FriendUsingDescription/You can have little talks with your friend to reduce stress by 5, yeah right now, teacher can wait it's only for a half of hour! 
+Ui_FriendTalkedDescription/How we spend our lives...
+Ui_TeacherUsingDescription/Let's test ourselves!(mistakes causes stress raising!)

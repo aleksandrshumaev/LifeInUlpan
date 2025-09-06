@@ -1,0 +1,15 @@
+TestEffect_StressLevel 10_EnergyLevel -10
+BedSleepEffect_StressLevel -30_EnergyLevel +60_Time 360
+BedNapEffect_StressLevel -10_EnergyLevel +30_Time 180
+ComputerBadEffect_StressLevel 20_EnergyLevel -30_Time 60
+ComputerNormalEffect_StressLevel 5_EnergyLevel -20_Time 60
+ComputerGoodEffect_StressLevel -40_EnergyLevel -10_Time 60
+WhiskyConsumtionEffect_StressLevel -10_EnergyLevel -30_Time 60
+HomeWorkEffect_StressLevel 10_EnergyLevel -30_Time 120
+UlanEffect_StressLevel 10_EnergyLevel -30_Time 120
+MistakeEffect_StressLevel 10
+FriendTalkEffect_StressLevel -5_Time 30
+KitchenGoodEffect_Money 50_StressLevel -10_EnergyLevel 15_Time 60
+KitchenBadEffect_Money 15_StressLevel 5_EnergyLevel 10_Time 60
+HairCureEffect_Money 250_HairAmount 5_Time 30
+PassedOut_StressLevel 30_EnergyLevel 30_Time 600
